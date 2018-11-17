@@ -1,6 +1,4 @@
-# Logs-Analysis-Project-
 
-FSND Project #1
 
 # logs analysis project
 
