@@ -9,7 +9,7 @@ This project contains executing three SQL queries from the newsdata database in 
 <br/> by using a reporting tool which is a Python program using the psycopg2 module to connect to the database.
  
 # Getting Started
-In order to start running the python file in this project you need to have project1.py file downloaded to vagrant folder inside the VM machine.
+In order to start running the python file in this project you need to have [project1.py](https://github.com/wejdanbab10/Logs-Analysis-Project-/blob/master/project1.py) file downloaded to vagrant folder inside the VM machine.
 
 # Prerequisites
 •	Install Linux-based virtual machine (VM)<br/>
