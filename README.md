@@ -16,7 +16,7 @@ In order to start running the python file in this project you need to have [proj
 •	Download [Vagrant](https://www.vagrantup.com)<br/>
 •	Download [VirtualBox](https://www.virtualbox.org/wiki/Download_Old_Builds_5_1)<br/>
 •	Download [newsdata.sql](https://classroom.udacity.com/nanodegrees/nd004-connect/parts/4237300b-ed78-4462-a353-a0bd14af33bc/modules/b632715b-7aae-4670-9137-bcd880561475/lessons/bc938915-0f7e-4550-a48f-82241ab649e3/concepts/a9cf98c8-0325-4c68-b972-58d5957f1a91) Database <br/>
-•	Download [Python 3.6.6](https://www.python.org/downloads/release/python-366/)
+•	Download [Python 3.6.6](https://www.python.org/downloads/release/python-366/)<br/>
 •	Download [project1.py](https://github.com/wejdanbab10/Logs-Analysis-Project-/blob/master/project1.py) file
 
 
