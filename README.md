@@ -28,16 +28,16 @@ In order to start running the python file in this project you need to have proje
  6. Type <b>python project1.py </b> to run to python file that contains the project
  
  # Output
- The most popular three articles of all time: <br/><br/>
+ <b>The most popular three articles of all time:</b> 
    • Candidate is jerk, alleges rival -- 338647 views<br/>
    • Bears love berries, alleges bear -- 253801 views<br/>
    • Bad things gone, say good people -- 170098 views<br/><br/>
 
-The most popular article authors of all time:<br/><br/>
+<b>The most popular article authors of all time:</b>
    • Ursula La Multa -- 507594 views<br/>
    • Rudolf von Treppenwitz -- 423457 views<br/>
    • Anonymous Contributor -- 170098 views<br/>
    • Markoff Chaney -- 84557 views<br/><br/>
 
-Days where more than 1% of requests lead to errors:<br/><br/>
+<b>Days where more than 1% of requests lead to errors:</b>
    • 2016-07-17 -- 2.2600 % errors<br/>
