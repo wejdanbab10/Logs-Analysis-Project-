@@ -35,7 +35,7 @@ In order to start running the python file in this project you need to have [proj
  2. Run the command <b>vagrant up</b> to start installing Linux
  3. Run the commaed <b>vagrant ssh</b> to log in to the VM
  4. Change the directory to the vagrant directory by using <b>cd/vagrant</b>
- 5. Type <b>python project1.py </b> to run to python file that contains the project
+ 5. Type <b>python project1.py </b> to run to python file that contains the project<br/>
  <b>Note:</b> You should have <b> project1.py</b> file inside the <b>vagrant</b> folder
  
  
