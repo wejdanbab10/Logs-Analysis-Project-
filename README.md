@@ -20,13 +20,23 @@ In order to start running the python file in this project you need to have [proj
 •	Download [project1.py](https://github.com/wejdanbab10/Logs-Analysis-Project-/blob/master/project1.py) file
 
 
-# Installing and Running the program
+# Installing
  1. Put the [newsdata.sql](https://classroom.udacity.com/nanodegrees/nd004-connect/parts/4237300b-ed78-4462-a353-a0bd14af33bc/modules/b632715b-7aae-4670-9137-bcd880561475/lessons/bc938915-0f7e-4550-a48f-82241ab649e3/concepts/a9cf98c8-0325-4c68-b972-58d5957f1a91) file inside the <b>vagrant</b> folder
  2. Open up your Terminal and change the directory to the vagrant directory by using <b>cd</b>
  3. Run the command <b>vagrant up</b> to start installing Linux
  4. Run the commaed <b>vagrant ssh</b> to log in to the VM
  5. Change the directory to the vagrant directory by using <b>cd/vagrant</b>
- 6. Type <b>python project1.py </b> to run to python file that contains the project
+ 6. Use <b>psql -d news -f newsdata.sql</b> command to download the data into you local database.
+ 7. After loading the data into your local database use <b>psql -d news</b> command to connect to your database.
+ 8. Now you can explore the the data by using sql commands and queries.
+ 
+ # Running the program
+ 1. Open up your Terminal and change the directory to the vagrant directory by using <b>cd</b>
+ 2. Run the command <b>vagrant up</b> to start installing Linux
+ 3. Run the commaed <b>vagrant ssh</b> to log in to the VM
+ 4. Change the directory to the vagrant directory by using <b>cd/vagrant</b>
+ 5. Type <b>python project1.py </b> to run to python file that contains the project
+ 
  
  # Output
  <b>The most popular three articles of all time:<br/></b> 
