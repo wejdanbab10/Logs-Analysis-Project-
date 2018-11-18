@@ -26,7 +26,7 @@ rows = c.fetchall()
 print ''
 print 'The most popular three articles of all time:'
 for row in rows:
-    print '  ', u'\u2022 ' + row[0] + ' -- ' + str(row[1]) + ' views'
+    print '  ', '* ' + row[0] + ' -- ' + str(row[1]) + ' views'
 
 
 # Query 2
@@ -50,7 +50,7 @@ rows = c.fetchall()
 print ''
 print 'The most popular article authors of all time:'
 for row in rows:
-    print '  ', u'\u2022 ' + row[0] + ' -- ' + str(row[1]) + ' views'
+    print '  ', '* ' + row[0] + ' -- ' + str(row[1]) + ' views'
 
 
 # Query 3
@@ -80,7 +80,7 @@ rows = c.fetchall()
 print ''
 print 'Days where more than 1% of requests lead to errors:'
 for row in rows:
-    print '  ', u'\u2022 ' + str(row[0]) + ' -- ' + str(row[1]) \
+    print '  ', '* ' + str(row[0]) + ' -- ' + str(row[1]) \
         + ' % errors'
 print ''
 
